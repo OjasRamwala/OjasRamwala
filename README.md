@@ -7,7 +7,7 @@ Welcome to the profile of Ojas A. Ramwala!
 - As an inquisitive 🎯 research enthusiast, his interests include developing and applying Machine Learning and Deep Learning techniques for Biomedical Signal and Image Processing, Computational Biology, Bioinformatics, Genomics, and Systems Biology.
 
 - Previously, Ojas was at the National Institute of Technology 🎓 - Surat, India pursuing bachelor's at the Electronics ⚡ Engineering Department. 
-- He has been fortunate to work as a Research Intern 🔭 at the Council of Scientific and Industrial Research (CSIR-CSIO), the Indian Space Research Organization (ISRO-IIRS) <img src="https://img.icons8.com/color/100/000000/gps-searching.png" width= "30"/>, and the Indian Institute of Science (IISc). 
+- He has been fortunate to work as a Research Intern 🔭 at the Council of Scientific and Industrial Research (CSIR-CSIO), the Indian Space Research Organization (ISRO-IIRS) <img src="https://img.icons8.com/color/100/000000/gps-searching.png" width= "20"/>, and the Indian Institute of Science (IISc). 
 - At NIT-Surat 🎓 he was involved in research under the supervision of Dr. Jignesh N. Sarvaiya, and Dr. Upena D. Dalal. 
 - He has pursued his undergraduate research under the wonderful guidance of Dr. Chirag N. Paunwala, and Dr. Mita C. Paunwala under whose supervision he has published 🖋 E-SCI and Scopus indexed international journal papers, a book chapter, and IEEE international conference papers.
 
